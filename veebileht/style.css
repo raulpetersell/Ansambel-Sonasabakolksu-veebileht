@@ -1,0 +1,11 @@
+title {
+    color: black;
+    font-style: bold;
+}
+
+h1 {
+    position: relative; top:35px;
+    background-color: azure;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
