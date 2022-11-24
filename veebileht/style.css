@@ -12,3 +12,8 @@ h1 {
 body {
     background-color: black;
 }
+p {
+    margin: auto;
+    width: 80%;
+    color: aliceblue;
+}
