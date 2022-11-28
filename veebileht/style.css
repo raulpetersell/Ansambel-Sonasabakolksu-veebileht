@@ -1,6 +1,5 @@
 title {
     color: rgb(255, 255, 255);
-    font-style: bold;
 }
 
 h1 {
@@ -23,4 +22,23 @@ h2 {
     margin: auto;
     width: 80%;
     text-align: center;
+}
+
+#logo {
+    background-color: rgba(255, 202, 44, 0.792);
+    position: fixed; left: 48%;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    border-radius: 50%;
+    text-align: center;
+    text-decoration: none;
+
+}
+.fa:hover {
+    opacity: 0.7;
+    
 }
