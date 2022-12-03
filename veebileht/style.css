@@ -48,6 +48,11 @@ h2 {
     position: fixed; left: 48%;
 }
 
+#logo1 {
+    background-color:rgba(255, 202, 44, 0.792) ;
+    position: relative;
+}
+
 .fa {
     padding: 20px;
     font-size: 30px;
